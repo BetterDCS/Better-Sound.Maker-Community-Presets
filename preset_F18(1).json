@@ -1,6 +1,8 @@
 {
-  "name": "F18",
-  "date": "2026-02-19T03:43:21.378Z",
+  "name": "FA-16",
+  "color": "#F54927",
+  "version": "1.0.2",
+  "date": "2026-02-21T04:21:26.462Z",
   "assetPaths": [
     "Aircrafts/FA-18/Afterburner.sdef",
     "Aircrafts/FA-18/AirScoop.sdef",
