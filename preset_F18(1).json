@@ -1,5 +1,7 @@
 {
   "name": "F18",
+  "color": "#E6D696",
+  "version": "1.0.2",
   "date": "2026-02-19T03:43:21.378Z",
   "assetPaths": [
     "Aircrafts/FA-18/Afterburner.sdef",
